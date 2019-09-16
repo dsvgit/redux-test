@@ -15,10 +15,10 @@
 Затем показывается ссылка на одну случайную статью.
 
 Пример (gif)
-![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/gif-demo.gif)
+![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/gif-demo-1.gif)
 
 Пример (image)
-![alt image_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/jpg-demo.jpg)
+![alt image_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/jpg-demo-1.jpg)
 
 ## Требования
 1. Все компоненты не должны иметь локального стейта.
