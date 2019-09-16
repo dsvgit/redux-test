@@ -4,20 +4,23 @@
 Требуется реализовать приложения загрузки случайной новости с помощью Reddit API.
 
 ## Задача
-Всего есть 4 темы (subreddits)
+Всего есть 4 темы (subreddits):
 - frontend
 - reactjs
 - vuejs
 - angular
+
 Для каждой из них есть бегущая строка с элементом содержащим название темы.
 При клике на элемент, он останавливается и подсвечивается.
 После этого происходит запрос на сервер статей по данной теме.
 Затем показывается ссылка на одну случайную статью.
 
-Пример (gif)
+### Пример (gif)
+
 ![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/gif-demo-1.gif)
 
-Пример (image)
+### Пример (image)
+
 ![alt image_ex](https://raw.githubusercontent.com/dsvgit/redux-test/master/jpg-demo-1.jpg)
 
 ## Требования
